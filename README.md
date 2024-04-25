@@ -1,4 +1,4 @@
-![image](https://github.com/R-Guruprasad/Metasploit-for-reconnaissance/assets/119390308/2c18860c-63cb-46eb-8578-d442d7d6ac46)# Metasploit-for-reconnaissance
+# Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
 
@@ -75,3 +75,4 @@ After scanning, you can also brute force MySQL root account via Metasploit's aux
 
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
+
